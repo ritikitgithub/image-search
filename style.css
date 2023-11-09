@@ -31,7 +31,6 @@ form{
     padding: 10px 20px;
     border: none;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
-    /* border-radius: 50px; */
     border-radius: 10px / 30px;
     font-size: 18px;
     color: #333;
@@ -44,8 +43,6 @@ form{
     font-size: 18px;
     box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
     cursor: pointer;
-    /* border-radius: 5px; */
-    /* border-radius: 5px 20px 5px; */
     border-radius: 10px / 30px;
 
     margin-left: 10px;
@@ -96,7 +93,6 @@ form{
     text-align: center;
     display: block;
     margin: 30px auto;
-    /* border-radius: 5px; */
     border-radius: 10px / 30px;
 
     cursor: pointer;
